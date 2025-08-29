@@ -1,3 +1,7 @@
 futsal,membaca
 umur:17
+<<<<<<< HEAD
 notelpon:0249997
+=======
+alamat:sdcnnscdo
+>>>>>>> fitur-alamat
