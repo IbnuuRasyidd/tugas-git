@@ -1,0 +1,2 @@
+ini file dari fitur1
+ini file dari fitur2
