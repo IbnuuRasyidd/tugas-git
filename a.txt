@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ini file A dari main
+=======
+ini file A dari fitur-
+>>>>>>> fitur-a
